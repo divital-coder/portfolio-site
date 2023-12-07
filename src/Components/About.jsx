@@ -16,27 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/stock_image_one.webp";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "stock background image of clouds";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Microsoft Learn Student Ambassador. Academia focus under Artificial Intelligence and Machine Learning";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Visualisation and GUI development (plotly,dash , c++)",
+  "Machine Learning (julia , python) focus in Convolutional Neural Networks",
+  "Cloud Development (Microsoft Azure suite of services)",
+  "Web Design and Developmentt (Typescript, Sveltekit, Figma, Canva )"
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Ongoing sophomore pursuing Machine Learning endeavours, utilising Azure AI services along the way. Data Visualisation in python and julia. Observational Health tooling contriubtions within the julia language ecosystem.";
 
 const About = () => {
   return (
