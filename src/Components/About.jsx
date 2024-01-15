@@ -32,7 +32,7 @@ const description =
  */
 const skillsList = [
   "Data Visualisation and GUI development (plotly,dash , c++)",
-  "Machine Learning (julia , python) focus in Convolutional Neural Networks and Computational Biology and Genomics",
+  "Machine Learning (julia , python) focus in Convolutional Neural Networks and Computational Biology.",
   "Cloud Development (Microsoft Azure suite of services)",
   "Web Design and Development (Typescript, Sveltekit, Figma, Canva )"
 ];
